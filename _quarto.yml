@@ -25,6 +25,10 @@ website:
       #     - units/unit3.qmd
       - href: data.qmd
         text: Sample Projects
+      - href: stat.qmd
+        text: Capstone in Statistics
+      - href: math.qmd
+        text: Capstone in Mathematics
       #- href: license.qmd
       #  text: License
           

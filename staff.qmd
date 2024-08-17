@@ -20,13 +20,25 @@ appointments.
 **Instructors:**
 
 -   <a href="https://uwf.edu/hmcse/departments/mathematics-and-statistics/faculty/dr-samantha-seals.html" target="_blank">Dr.
-    Samantha Seals</a>: `sseals@uwf.edu`
+    Samantha Seals</a>:
+
+    -   Email: `sseals@uwf.edu`
+
+    -   GitHub: <https://github.com/samanthaseals>
 
 -   <a href="https://uwf.edu/hmcse/departments/mathematics-and-statistics/faculty/dr-shusen-pu.html" target="_blank">Dr.
-    Shusen Pu</a>: `spu@uwf.edu`
+    Shusen Pu</a>:
+
+    -   Email: `spu@uwf.edu`
+
+    -   GitHub: <https://github.com/shusenpu>
 
 -   <a href="https://uwf.edu/hmcse/departments/mathematics-and-statistics/faculty/dr-achraf-cohen.html" target='_blank'>Dr.
-    Achraf Cohen</a>: `acohen@uwf.edu`
+    Achraf Cohen</a>:
+
+    -   Email: `acohen@uwf.edu`
+
+    -   GitHub: <https://github.com/acohenstat>
 
 ```{=html}
 <!--
