@@ -2,26 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://capstone4ds.github.io/data.html</loc>
-    <lastmod>2024-08-16T04:53:20.608Z</lastmod>
+    <lastmod>2024-08-17T17:22:03.782Z</lastmod>
   </url>
   <url>
-    <loc>https://capstone4ds.github.io/license.html</loc>
-    <lastmod>2024-08-07T19:57:59.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://capstone4ds.github.io/staff.html</loc>
-    <lastmod>2024-08-16T04:53:09.245Z</lastmod>
-  </url>
-  <url>
-    <loc>https://capstone4ds.github.io/index.html</loc>
-    <lastmod>2024-08-16T04:56:11.198Z</lastmod>
+    <loc>https://capstone4ds.github.io/math.html</loc>
+    <lastmod>2024-08-17T17:10:42.210Z</lastmod>
   </url>
   <url>
     <loc>https://capstone4ds.github.io/syllabus.html</loc>
-    <lastmod>2024-08-16T04:52:57.285Z</lastmod>
+    <lastmod>2024-08-17T17:22:03.783Z</lastmod>
+  </url>
+  <url>
+    <loc>https://capstone4ds.github.io/staff.html</loc>
+    <lastmod>2024-08-17T17:35:29.376Z</lastmod>
+  </url>
+  <url>
+    <loc>https://capstone4ds.github.io/index.html</loc>
+    <lastmod>2024-08-17T17:22:03.782Z</lastmod>
+  </url>
+  <url>
+    <loc>https://capstone4ds.github.io/stat.html</loc>
+    <lastmod>2024-08-17T17:10:34.688Z</lastmod>
+  </url>
+  <url>
+    <loc>https://capstone4ds.github.io/license.html</loc>
+    <lastmod>2024-08-17T17:22:03.782Z</lastmod>
   </url>
   <url>
     <loc>https://capstone4ds.github.io/project.html</loc>
-    <lastmod>2024-08-16T04:52:49.309Z</lastmod>
+    <lastmod>2024-08-17T16:57:00.676Z</lastmod>
   </url>
 </urlset>

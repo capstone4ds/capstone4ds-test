@@ -20,40 +20,13 @@
     ]
   },
   {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
+    "objectID": "math.html",
+    "href": "math.html",
+    "title": "MAT 6910 - Capstone Projects in Mathematics",
     "section": "",
-    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License."
-  },
-  {
-    "objectID": "staff.html",
-    "href": "staff.html",
-    "title": "IDC 6940 - Capstone Projects in Data Science",
-    "section": "",
-    "text": "Important\n\n\n\nIt depends on the semester. One or more instructors are assigned to teach this course.\nPlease visit Canvas or get in touch with your instructor for questions and office hours appointments.\n\n\n\nInstructors:\n\nDr. Samantha Seals: sseals@uwf.edu\nDr. Shusen Pu: spu@uwf.edu\nDr. Achraf Cohen: acohen@uwf.edu",
+    "text": "Important\n\n\n\nUNDER CONSTRUCTION",
     "crumbs": [
-      "Instructors"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "IDC 6940 - Capstone Projects in Data Science",
-    "section": "",
-    "text": "This course will provide you with an opportunity to apply the knowledge and skills that you have gained in the program. The capstone project will allow student to gain experience in data wrangling, data visualization, statistical modeling, machine learning, reporting, and presenting the results. Upon the completion of this course, you will have a data product (paper and slides) to show to potential hiring managers.",
-    "crumbs": [
-      "Home / Schedule"
-    ]
-  },
-  {
-    "objectID": "index.html#schedule",
-    "href": "index.html#schedule",
-    "title": "IDC 6940 - Capstone Projects in Data Science",
-    "section": "Schedule",
-    "text": "Schedule\n*Day indicates class meeting days of the week .\n\n\n\n\n\n\n\n\n\nWeek\nDay*\nTopic(s)\nAction\n\n\n\n\n1\n1\nIntro to GitHub / RStudio / Quarto\nDo Practice + Pick a Topic/Group\n\n\n\n2\nPick a Topic + Practice (no meeting)\nPick a Topic/Group\n\n\n2\n1\nIndividual research\nRead and summarize research papers; Create Individual GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers; Create Individual GitHub Website\n\n\n3\n1\nIndividual research\nRead and summarize research papers; Add them to GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers; Add them to GitHub Website\n\n\n4\n1\nIndividual research\nRead and summarize research papers + polish writing on GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers + polish writing on GitHub Website\n\n\n5\n1\nTeam research\nwrite the introduction/literature review\n\n\n\n2\nTeam research (no meeting)\nwrite the introduction/literature review\n\n\n6\n1\nTeam research\npolish the introduction/literature review + pick a data set\n\n\n\n2\nTeam research (no meeting)\npolish the introduction/literature review + pick a data set\n\n\n7\n1\nTeam research\ndata description and visualization\n\n\n\n2\nTeam research (no meeting)\ndata description and visualization\n\n\n8\n1\nTeam research\nwrite the method section\n\n\n\n2\nTeam research (no meeting)\nwrite the method section\n\n\n9\n1\nTeam research\nwrite the method section\n\n\n\n2\nTeam research (no meeting)\nwrite the method section\n\n\n10\n1\nTeam research\nanalysis and results\n\n\n\n2\nTeam research (no meeting)\nanalysis and results\n\n\n11\n1\nTeam research\nanalysis and results\n\n\n\n2\nTeam research (no meeting)\nanalysis and results\n\n\n12\n1\nTeam research\nanalysis and results\n\n\n\n2\nTeam research (no meeting)\nanalysis and results\n\n\n13\n1\nTeam research\n1st draft + slides preparation\n\n\n\n2\nTeam research (no meeting)\n1st draft + slides preparation\n\n\n14\n1\nTeam research\nFeedback\n\n\n\n2\nTeam research (no meeting)\n\n\n\n15\n1\nOral Presentations\nPresentation\n\n\n\n2\nOral Presentations\nPresentation\n\n\n16\n\nFinal paper + slides due",
-    "crumbs": [
-      "Home / Schedule"
+      "Capstone in Mathematics"
     ]
   },
   {
@@ -147,11 +120,51 @@
     ]
   },
   {
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "",
+    "text": "Important\n\n\n\nIt depends on the semester. One or more instructors are assigned to teach this course.\nPlease visit Canvas or get in touch with your instructor for questions and office hours appointments.\n\n\n\nInstructors:\n\nDr. Samantha Seals:\n\nEmail: sseals@uwf.edu\nGitHub: https://github.com/samanthaseals\n\nDr. Shusen Pu:\n\nEmail: spu@uwf.edu\nGitHub: https://github.com/shusenpu\n\nDr. Achraf Cohen:\n\nEmail: acohen@uwf.edu\nGitHub: https://github.com/acohenstat",
+    "crumbs": [
+      "Instructors"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "",
+    "text": "This course will provide you with an opportunity to apply the knowledge and skills that you have gained in the program. The capstone project will allow student to gain experience in data wrangling, data visualization, statistical modeling, machine learning, reporting, and presenting the results. Upon the completion of this course, you will have a data product (paper and slides) to show to potential hiring managers.",
+    "crumbs": [
+      "Home / Schedule"
+    ]
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "IDC 6940 - Capstone Projects in Data Science",
+    "section": "Schedule",
+    "text": "Schedule\n*Day indicates class meeting days of the week .\n\n\n\n\n\n\n\n\n\nWeek\nDay*\nTopic(s)\nAction\n\n\n\n\n1\n1\nIntro to GitHub / RStudio / Quarto\nDo Practice + Pick a Topic/Group\n\n\n\n2\nPick a Topic + Practice (no meeting)\nPick a Topic/Group\n\n\n2\n1\nIndividual research\nRead and summarize research papers; Create Individual GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers; Create Individual GitHub Website\n\n\n3\n1\nIndividual research\nRead and summarize research papers; Add them to GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers; Add them to GitHub Website\n\n\n4\n1\nIndividual research\nRead and summarize research papers + polish writing on GitHub Website\n\n\n\n2\nIndividual research (no meeting)\nRead and summarize research papers + polish writing on GitHub Website\n\n\n5\n1\nTeam research\nwrite the introduction/literature review\n\n\n\n2\nTeam research (no meeting)\nwrite the introduction/literature review\n\n\n6\n1\nTeam research\npolish the introduction/literature review + pick a data set\n\n\n\n2\nTeam research (no meeting)\npolish the introduction/literature review + pick a data set\n\n\n7\n1\nTeam research\ndata description and visualization\n\n\n\n2\nTeam research (no meeting)\ndata description and visualization\n\n\n8\n1\nTeam research\nwrite the method section\n\n\n\n2\nTeam research (no meeting)\nwrite the method section\n\n\n9\n1\nTeam research\nwrite the method section\n\n\n\n2\nTeam research (no meeting)\nwrite the method section\n\n\n10\n1\nTeam research\nanalysis and results\n\n\n\n2\nTeam research (no meeting)\nanalysis and results\n\n\n11\n1\nTeam research\nanalysis and results\n\n\n\n2\nTeam research (no meeting)\nanalysis and results\n\n\n12\n1\nTeam research\nanalysis and results\n\n\n\n2\nTeam research (no meeting)\nanalysis and results\n\n\n13\n1\nTeam research\n1st draft + slides preparation\n\n\n\n2\nTeam research (no meeting)\n1st draft + slides preparation\n\n\n14\n1\nTeam research\nFeedback\n\n\n\n2\nTeam research (no meeting)\n\n\n\n15\n1\nOral Presentations\nPresentation\n\n\n\n2\nOral Presentations\nPresentation\n\n\n16\n\nFinal paper + slides due",
+    "crumbs": [
+      "Home / Schedule"
+    ]
+  },
+  {
+    "objectID": "stat.html",
+    "href": "stat.html",
+    "title": "STA 6950 - Capstone Projects in Statistics",
+    "section": "",
+    "text": "Important\n\n\n\nUNDER CONSTRUCTION",
+    "crumbs": [
+      "Capstone in Statistics"
+    ]
+  },
+  {
     "objectID": "project.html",
     "href": "project.html",
     "title": "IDC 6940 - Capstone Projects in Data Science",
     "section": "",
-    "text": "Please read the following instructions:\nYou will need to select a specific study area to concentrate on, which may be a subject new to you. You will start the process by conducting an in-depth exploration of the chosen topic and then demonstrate the application of the new methodology using a real-world dataset that is both relevant and captivating. Completing the project requires submitting a comprehensive written paper alongside an engaging oral presentation supported by slides.\n\n\n\n\n\n\nImportant\n\n\n\nGitHub Page Template Project: https://github.com/capstone4ds/capstone4ds_template\n\n\nThe methodologies to consider:\nRegression methodologies:\n\nQuantile Regression\nGeneralized Additive Models\nNormal Linear Mixed Models\nGeneralized estimating equations\nLASSO or Ridge Regression\nKernel Regression\nBayesian Linear Regression\nBeta regression\nCox proportional hazards model\n…\n\nClustering methodologies:\n\nK-means clustering\nLatent Class Analysis\n…\n\nMachine Learning methodologies:\n\nSupport Vector Machines\nDecision Trees Random Forest\nXGBoost models\nBayesian Networks\nKNN\nLong Short-Term Network (LSTM)\nConventional Neural Network (CNN)\nSentiment Analysis (NLP)\n\nOthers:\n\nMissing Data and Imputation\nCross-validation\nBootstrapping and Jackknife Estimation\nPrincipal Component Analysis\nIndependent Component Analysis\n…\n\n\n\n\n\n\n\nNote\n\n\n\nYou are free to propose a topic if there is something you are interested in but is missing from the list. The instructor must approve the methodology to ensure that it meets the expectations of a capstone project.\n\n\n\nUseful links\n\nData Sets: https://acohenstat.github.io/Datasets/\nGitHub Page for the project: https://github.com/acohenstat/STA6257_Project",
+    "text": "Please read the following instructions:\nYou will need to select a specific study area to concentrate on, which may be a subject new to you. You will start the process by conducting an in-depth exploration of the chosen topic and then demonstrate the application of the new methodology using a real-world dataset that is both relevant and captivating. Completing the project requires submitting a comprehensive written paper alongside an engaging oral presentation supported by slides.\n\n\n\n\n\n\nImportant\n\n\n\nGitHub Page Template Project: https://github.com/capstone4ds/capstone4ds_template\n\n\nThe methodologies to consider:\nRegression methodologies:\n\nQuantile Regression\nGeneralized Additive Models\nNormal Linear Mixed Models\nGeneralized estimating equations\nLASSO or Ridge Regression\nKernel Regression\nBayesian Linear Regression\nBeta regression\nCox proportional hazards model\n…\n\nClustering methodologies:\n\nK-means clustering\nLatent Class Analysis\n…\n\nMachine Learning methodologies:\n\nSupport Vector Machines\nDecision Trees Random Forest\nXGBoost models\nBayesian Networks\nKNN\nLong Short-Term Network (LSTM)\nConventional Neural Network (CNN)\nSentiment Analysis (NLP)\n\nOthers:\n\nMissing Data and Imputation\nCross-validation\nBootstrapping and Jackknife Estimation\nPrincipal Component Analysis\nIndependent Component Analysis\n…\n\n\n\n\n\n\n\nNote\n\n\n\nYou are free to propose a topic if there is something you are interested in but is missing from the list. The instructor must approve the methodology to ensure that it meets the expectations of a capstone project.\n\n\n\nUseful links\n\nData Sets: https://acohenstat.github.io/Datasets/",
     "crumbs": [
       "Project Instructions"
     ]
