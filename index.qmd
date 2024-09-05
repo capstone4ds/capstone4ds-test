@@ -25,7 +25,7 @@ Things are picking up now.
 ```
 This course will provide you with an opportunity to apply the knowledge and skills that you have gained in the program. The capstone project will allow student to gain experience in data wrangling, data visualization, statistical modeling, machine learning, reporting, and presenting the results. Upon the completion of this course, you will have a data product (paper and slides) to show to potential hiring managers.
 
-## Ongoing Projects:
+## Ongoing Projects (Fall 2024):
 - Decision trees and random forest
 - Beta regression
 - Mixed models
